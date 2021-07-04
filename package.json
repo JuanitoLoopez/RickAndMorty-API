@@ -1,0 +1,16 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Work with async on JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node /home/juanitoloopez/personalProjects/async/index.js"
+  },
+  "keywords": [
+    "Promise",
+    "Callbacks",
+    "Async."
+  ],
+  "author": "Juan Fernando López Hernández juanchito15810@gmail.com",
+  "license": "ISC"
+}
