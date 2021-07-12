@@ -4,7 +4,8 @@
   "description": "Work with async on JavaScript.",
   "main": "index.js",
   "scripts": {
-    "callback": "node /home/juanitoloopez/personalProjects/async/index.js"
+    "callback": "node /home/juanitoloopez/personalProjects/async/index.js",
+    "challenge": "node /home/juanitoloopez/personalProjects/async/challenge.js"
   },
   "keywords": [
     "Promise",
@@ -12,5 +13,8 @@
     "Async."
   ],
   "author": "Juan Fernando López Hernández juanchito15810@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
