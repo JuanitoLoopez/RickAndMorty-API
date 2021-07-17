@@ -4,8 +4,8 @@
   "description": "Work with async on JavaScript.",
   "main": "index.js",
   "scripts": {
-    "callback": "node /home/juanitoloopez/personalProjects/async/index.js",
-    "challenge": "node /home/juanitoloopez/personalProjects/async/challenge.js"
+    "callback": "node /home/juanitoloopez/personalProjects/async/callback/index.js",
+    "challenge": "node /home/juanitoloopez/personalProjects/async/callback/challenge.js"
   },
   "keywords": [
     "Promise",
