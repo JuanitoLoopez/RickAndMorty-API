@@ -12,7 +12,11 @@ console.log(calc(6, 2, sum))
 
 function date(callback){
     console.log(new Date);
-    setTimeout(function(){
+    setTimeout
+    
+    
+    
+    (function(){
         let date = new Date;
         callback(date);
     }, 5000)
