@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "callback": "node /home/juanitoloopez/personalProjects/async/callback/index.js",
-    "challenge": "node /home/juanitoloopez/personalProjects/async/callback/challenge.js"
+    "callback:challenge": "node /home/juanitoloopez/personalProjects/async/callback/challenge.js",
+    "promise": "node /home/juanitoloopez/personalProjects/async/promise/index.js",
+    "promise:challenge": "node /home/juanitoloopez/personalProjects/async/promise/challenge.js"
   },
   "keywords": [
     "Promise",
