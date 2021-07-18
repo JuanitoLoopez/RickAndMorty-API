@@ -8,7 +8,8 @@
     "callback:challenge": "node /home/juanitoloopez/personalProjects/async/callback/challenge.js",
     "promise": "node /home/juanitoloopez/personalProjects/async/promise/index.js",
     "promise:challenge": "node /home/juanitoloopez/personalProjects/async/promise/challenge.js",
-    "asyncAwait": "node /home/juanitoloopez/personalProjects/async/asyncAwait/index.js"
+    "asyncAwait": "node /home/juanitoloopez/personalProjects/async/asyncAwait/index.js",
+    "asyncAwait:challenge": "node /home/juanitoloopez/personalProjects/async/asyncAwait/challenge.js"
   },
   "keywords": [
     "Promise",
